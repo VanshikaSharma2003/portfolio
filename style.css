@@ -371,10 +371,13 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .react::before{
+.skills-content .right .figma::before{
     width: 70%;
 }
-.skills-content .right .database::before{
+.skills-content .right .canva::before{
+    width: 80%;
+}
+.skills-content .right .adobe::before{
     width: 80%;
 }
 
